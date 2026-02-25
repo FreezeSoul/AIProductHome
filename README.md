@@ -29,9 +29,9 @@
 3. 更新记录
 
 ```bash
-2026-01-25
-
+2026-02-23
 💡 AI Product Home
+- 在线网站：https://eternaldeath.github.io/AIProductHome/
 - 国外仓库：https://github.com/Eternaldeath/AIProductHome
 - 国内仓库：https://gitcode.com/qq_34902437/AIProductHome/overview
 
@@ -40,13 +40,9 @@
 ⚠️ 后续将继续网站的开发和优化，提升用户使用体验。
 
 # AI Tool
-- 百小应：百川智能发布的面向医疗领域的 AI 应用
-- Banana Pro：一个集成图像生成、视频生成与提示词优化的 AI 创作平台，支持图生图/文生图、结果画廊管理与批量下载，帮助用户更快产出高质量素材
-- sara2.io：AI图像视频一站式生成平台，告别多工具切换
-- PostForgeHub：一款人工智能驱动的工具，可在几秒钟内将博客文章、视频或播客转换为 50 多个针对 Instagram、LinkedIn、Twitter 和 Facebook 等平台优化的社交媒体帖子
-- KoalaQA 是一款 AI 大模型驱动的开源售后服务社区，提供 AI 回答、AI 搜索、AI 运营等能力，覆盖售后客服、产品答疑、需求反馈、资料查询等智能社区场景，帮助团队显著降低人工运营成本、提升客户满意度与响应效率，助力实现 ZCR（Zero Contact Resolution）目标
+- Chatgpt Prism：openai 原生支持 LaTeX 的免费工作空间，将 GPT‑5.2 无缝融入你的科研写作与协作流程
+- boardmix 博思白板：一个基于无限画布的多模态AI创作空间，集思维表达，灵感梳理，流程整理，任务管理，素材收集，笔记文档多种创意表达能力于一体。白板独特的AI优势，更可视化地驱动用户进行多模态的Prompt输入，包括文本、图像、网页、音频、视频、代码块等。结合预定义的丰富模板和大模型能力，极大提升团队工作及协作效率
 # AI News
-
 # AI Tutorial
 ```
 
@@ -214,6 +210,7 @@
 | [Realchar.ai](https://realchar.ai/)                       |    🆓🔓    | 一款端到端开源人工智能伴侣，其中的特色功能是可以获取实时的背景信息 |
 | [Minimaxi](https://minimaxi.com/)                         |          | MiniMax 自主研发了不同模态的通用大模型，其中包括万亿参数的 MoE 文本大模型、语音大模型以及图像大模型。基于不同模态的通用大模型，MiniMax 推出生产力工具海螺AI、沉浸式AI内容社区星野等原生应用。MiniMax 开放平台为企业和开发者提供安全、灵活、可靠的 API 服务，助力快速搭建 AI 应用 |
 | [Manus](https://manus.im/)                                |    🆓     | Manus 是一款通用型 AI 助手，能将想法转化为行动：不止于思考，更注重成果。Manus 擅长处理工作与生活中的各类任务，在你安心休息的同时，一切都能妥善完成 |
+| [Prism](https://openai.com/zh-Hans-CN/prism/)             |    💰     | openai 原生支持 LaTeX 的免费工作空间，将 GPT‑5.2 无缝融入你的科研写作与协作流程 |
 
 # 代码辅助
 
@@ -370,6 +367,7 @@
 |产品名称|相关信息|备注|
 |-|:-:|-|
 |[chat mind](https://www.chatmind.tech/)|🆓&💰|Chatmind是专注于AI生成思维导图的效率工具|
+|[boardmix 博思白板](https://boardmix.cn/)|🆓&💰|一个基于无限画布的多模态AI创作空间，集思维表达，灵感梳理，流程整理，任务管理，素材收集，笔记文档多种创意表达能力于一体。白板独特的AI优势，更可视化地驱动用户进行多模态的Prompt输入，包括文本、图像、网页、音频、视频、代码块等。结合预定义的丰富模板和大模型能力，极大提升团队工作及协作效率|
 
 ## 文本创作
 |产品名称|相关信息|备注|
